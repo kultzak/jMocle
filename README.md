@@ -15,5 +15,10 @@ python -m pip install jep
 ```bash
 python -m pip install scikit-learn
 ```
-=======
-# jMocle
+
+**MCLA**
+
+You can download from https://github.com/kultzak/MCLA
+```bash
+sudo python3 setup.py install
+```
