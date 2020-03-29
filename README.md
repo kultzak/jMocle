@@ -1,5 +1,4 @@
-# clustering-criterias [![Build Status](https://travis-ci.com/fritsche/clustering-criterias.svg?branch=master)](https://travis-ci.com/fritsche/clustering-criterias) [![codecov](https://codecov.io/gh/fritsche/clustering-criterias/branch/master/graph/badge.svg)](https://codecov.io/gh/fritsche/clustering-criterias)
-
+# clustering-criterias [![Build Status](https://travis-ci.com/kultzak/jMocle.svg?token=7ipHU3zq4Zynpto9yJHJ&branch=master)](https://travis-ci.com/kultzak/jMocle) [![codecov](https://codecov.io/gh/kultzak/jMocle/branch/master/graph/badge.svg?token=KHBM47IXML)](https://codecov.io/gh/kultzak/jMocle)
 Clustering Criterias for multi-objective data clustering.
 
 # Dependencies
